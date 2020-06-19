@@ -1,0 +1,8 @@
+server:
+  port: 6777
+
+quote:
+  monitor:
+    -   pairId: 1
+        exchange: Huobi
+        symbol: BTCUSDT
